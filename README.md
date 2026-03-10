@@ -62,25 +62,25 @@ AI Engineer • Machine Learning • Data Science
 
 # GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![stats](https://github-readme-stats.vercel.app/api?username=omarnagy122&show_icons=true&theme=tokyonight)
 
 ---
 
 # Most Used Languages
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarnagy122&layout=compact&theme=tokyonight)
 
 ---
 
 # GitHub Streak
 
-![streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
+![streak](https://streak-stats.demolab.com/?user=omarnagy122&theme=tokyonight)
 
 ---
 
 # Contribution Graph
 
-![graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
+![graph](https://github-readme-activity-graph.vercel.app/graph?username=omarnagy122&theme=tokyo-night)
 
 ---
 
