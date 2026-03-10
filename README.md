@@ -62,7 +62,7 @@ AI Engineer • Machine Learning • Data Science
 
 # GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=omarnagy122&show_icons=true&theme=tokyonight)
+![stats](https://github-readme-stats.vercel.app/api?username=omarnagy122&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ---
 
@@ -81,7 +81,6 @@ AI Engineer • Machine Learning • Data Science
 # Contribution Graph
 
 ![graph](https://github-readme-activity-graph.vercel.app/graph?username=omarnagy122&theme=tokyo-night)
-
 ---
 
 # Featured Projects
