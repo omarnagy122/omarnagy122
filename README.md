@@ -1,4 +1,4 @@
-<h1 align="center">Omar Ahmed</h1>
+<h1 align="center">Omar A. Nagy</h1>
 
 <h3 align="center">
 AI Engineer • Machine Learning • Deep Learning
