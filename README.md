@@ -86,8 +86,11 @@ AI Engineer • Machine Learning • Deep Learning • Computer Vision
 # GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=omarnagy122&show_icons=true&theme=tokyonight&cache_seconds=1800" height="180">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarnagy122&layout=compact&theme=tokyonight" height="180">
+  
+![stats](https://github-readme-stats.vercel.app/api?username=omarnagy122&show_icons=true&theme=tokyonight&cache_seconds=0)
+
+
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarnagy122&layout=compact&theme=tokyonight)
 </p>
 
 ---
