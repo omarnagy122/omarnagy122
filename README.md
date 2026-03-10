@@ -1,68 +1,90 @@
 <h1 align="center">Omar Ahmed</h1>
-<h3 align="center">AI & Data Engineer</h3>
+
+<h3 align="center">
+AI Engineer • Machine Learning • Data Science
+</h3>
 
 <p align="center">
-Machine Learning • Data Science • Artificial Intelligence
+<img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer;Machine+Learning+Engineer;Data+Scientist;Building+Real+World+ML+Projects&center=true&width=500&height=45">
 </p>
 
 ---
 
-## About Me
+# About Me
 
 • AI & Data Engineering student  
 
 • Interested in Machine Learning and Deep Learning  
 
-• Building real-world ML projects  
+• Building real-world ML systems  
 
-• Focused on turning models into real products  
+• Turning ML models into real applications  
 
-• Currently learning advanced ML and deployment  
+• Currently focusing on ML and AI engineering
 
 ---
 
-## Tech Stack
+# Tech Stack
 
-### Programming
+### Languages
 
-![Python](https://skillicons.dev/icons?i=python)
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp" />
+</p>
+
+---
 
 ### Data Science
 
-![NumPy](https://skillicons.dev/icons?i=python)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas">
+
+---
 
 ### Machine Learning
 
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
+<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn">
+
+---
 
 ### Tools
 
-![Git](https://skillicons.dev/icons?i=git)
-![Github](https://skillicons.dev/icons?i=github)
-![VSCode](https://skillicons.dev/icons?i=vscode)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
 
 ---
 
-## GitHub Stats
+# GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
----
-
-## Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
 ---
 
-## GitHub Streak
+# Most Used Languages
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
-## Featured Projects
+# GitHub Streak
+
+![streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
+
+---
+
+# Contribution Graph
+
+![graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
+
+---
+
+# Featured Projects
 
 ### Machine Learning Projects
 
@@ -76,6 +98,14 @@ Machine Learning • Data Science • Artificial Intelligence
 
 ---
 
-## Connect With Me
+# Connect With Me
 
-Email  
+Email
+
+omarahmednagy122@gmail.com
+
+---
+
+# Profile Views
+
+![](https://komarev.com/ghpvc/?username=omarnagy122)
