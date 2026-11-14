@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 985 230" width="985" height="230"><defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ffb347"/><stop offset="1" stop-color="#ff5e7e"/></linearGradient>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset="0.5" stop-color="#141b3a"/><stop offset="1" stop-color="#0b1020"/></linearGradient>
+<filter id="glow" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#6366f1" fill-opacity="0.18"/></pattern>
+</defs><g transform="translate(0,0)"><rect x="0" y="0" width="235" height="230" rx="16" fill="#121933" stroke="#6366f1" stroke-opacity="0.4" stroke-width="1.5"/>
+<circle cx="117" cy="88" r="52" fill="none" stroke="#0b1020" stroke-width="10"/>
+<circle cx="117" cy="88" r="52" fill="none" stroke="url(#g)" stroke-width="10" stroke-linecap="round" stroke-dasharray="326.7 326.7" stroke-dashoffset="326.7" transform="rotate(-90 117 88)"><animate attributeName="stroke-dashoffset" values="326.7;3.3;3.3" keyTimes="0;0.3;1" dur="7s" begin="0.0s" repeatCount="indefinite"/></circle>
+<text x="117" y="96" text-anchor="middle" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="22" font-weight="700" fill="#fff">0.99</text>
+<text x="117" y="170" text-anchor="middle" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="13" fill="#ffb347" letter-spacing="2">ROC-AUC</text>
+<text x="117" y="196" text-anchor="middle" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="12" fill="#64748b">AnomX failure model</text></g><g transform="translate(250,0)"><rect x="0" y="0" width="235" height="230" rx="16" fill="#121933" stroke="#6366f1" stroke-opacity="0.4" stroke-width="1.5"/>
+<circle cx="117" cy="88" r="52" fill="none" stroke="#0b1020" stroke-width="10"/>
+<circle cx="117" cy="88" r="52" fill="none" stroke="url(#g)" stroke-width="10" stroke-linecap="round" stroke-dasharray="326.7 326.7" stroke-dashoffset="326.7" transform="rotate(-90 117 88)"><animate attributeName="stroke-dashoffset" values="326.7;17.0;17.0" keyTimes="0;0.3;1" dur="7s" begin="0.4s" repeatCount="indefinite"/></circle>
+<text x="117" y="96" text-anchor="middle" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="22" font-weight="700" fill="#fff">94.8%</text>
+<text x="117" y="170" text-anchor="middle" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="13" fill="#ffb347" letter-spacing="2">ACCURACY</text>
+<text x="117" y="196" text-anchor="middle" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="12" fill="#64748b">AG News, fine-tuned BERT</text></g><g transform="translate(500,0)"><rect x="0" y="0" width="235" height="230" rx="16" fill="#121933" stroke="#6366f1" stroke-opacity="0.4" stroke-width="1.5"/>
+<circle cx="117" cy="88" r="52" fill="none" stroke="#0b1020" stroke-width="10"/>
+<circle cx="117" cy="88" r="52" fill="none" stroke="url(#g)" stroke-width="10" stroke-linecap="round" stroke-dasharray="326.7 326.7" stroke-dashoffset="326.7" transform="rotate(-90 117 88)"><animate attributeName="stroke-dashoffset" values="326.7;6.5;6.5" keyTimes="0;0.3;1" dur="7s" begin="0.8s" repeatCount="indefinite"/></circle>
+<text x="117" y="96" text-anchor="middle" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="22" font-weight="700" fill="#fff">98%+</text>
+<text x="117" y="170" text-anchor="middle" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="13" fill="#ffb347" letter-spacing="2">TEST ACCURACY</text>
+<text x="117" y="196" text-anchor="middle" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="12" fill="#64748b">MNIST, CNN</text></g><g transform="translate(750,0)"><rect x="0" y="0" width="235" height="230" rx="16" fill="#121933" stroke="#6366f1" stroke-opacity="0.4" stroke-width="1.5"/>
+<circle cx="117" cy="88" r="52" fill="none" stroke="#0b1020" stroke-width="10"/>
+<circle cx="117" cy="88" r="52" fill="none" stroke="url(#g)" stroke-width="10" stroke-linecap="round" stroke-dasharray="326.7 326.7" stroke-dashoffset="326.7" transform="rotate(-90 117 88)"><animate attributeName="stroke-dashoffset" values="326.7;22.9;22.9" keyTimes="0;0.3;1" dur="7s" begin="1.2000000000000002s" repeatCount="indefinite"/></circle>
+<text x="117" y="96" text-anchor="middle" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="22" font-weight="700" fill="#fff">93%</text>
+<text x="117" y="170" text-anchor="middle" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="13" fill="#ffb347" letter-spacing="2">ACCURACY</text>
+<text x="117" y="196" text-anchor="middle" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="12" fill="#64748b">Heart disease prediction</text></g></svg>
